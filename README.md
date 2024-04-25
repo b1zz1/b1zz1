@@ -1,15 +1,6 @@
 # Olá, me chamo Eduardo 👋
 ###### Hello, I'm Eduardo
 
-<div align="center">
-  <a href="https://github.com/b1zz1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b1zz1&count_private=true&show_icons=true&theme=github_dark&hide_border=1&include_all_commits=1" />
-  </a>
-    <a href="https://github.com/b1zz1/convoychat">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1zz1&theme=github_dark&hide_border=1&layout=compact" />
-  </a>
-</div>
-
 <div style="display: inline_block"><br>
    <img align="center" alt="bizzi-js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    <img align="center" alt="bizzi-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
