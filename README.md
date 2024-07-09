@@ -1,7 +1,7 @@
 # Olá, me chamo Eduardo 👋
 ###### Hello, I'm Eduardo
 
-<div align="left">
+<div width="full">
     <a href="https://github.com/b1zz1/convoychat">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1zz1&theme=github_dark&hide_border=1&layout=compact" />
   </a>
