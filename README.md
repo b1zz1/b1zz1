@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=b1zz1&color=006bed)
-
+# Olá! Sou o Eduardo ![](https://komarev.com/ghpvc/?username=b1zz1&color=006bed)
 ## About me
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -45,12 +44,12 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/b1zz1" title="Perfil do Edu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b1zz1&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/b1zz1?label=follow&style=social)](https://github.com/b1zz1)
