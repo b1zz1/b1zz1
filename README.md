@@ -57,4 +57,4 @@ Primary color dark: #55A1F7
 </div>
 
 <!-- ENGLISH END -->
-![](https://komarev.com/ghpvc/?username=b1zz1)
+![](https://komarev.com/ghpvc/?username=b1zz1&abbreviated&color=55A1F7)
