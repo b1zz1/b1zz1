@@ -1,4 +1,8 @@
-# Olá! Sou o Eduardo ![](https://komarev.com/ghpvc/?username=b1zz1&color=006bed)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d444d&height=120&section=header"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3D444D&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Eduardo;I+live+in+Jaragu%C3%A1+do+Sul%2C+Brazil;Currently+working+with+frontend+development)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=b1zz1&color=006bed)
 ## About me
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -44,9 +48,15 @@
 
 <br/>
 
-<a href="https://github.com/b1zz1" title="Perfil do Edu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b1zz1&theme=dracula&show_icons=true" />
-</a>
+<div align="center">
+    
+  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=b1zz1&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/b1zz1/github-readme-stats#gh-light-mode-only)
+  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=b1zz1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/b1zz1/github-readme-stats#gh-dark-mode-only)
+
+  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=b1zz1&show_icons=true&theme=light&layout=compact#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs#gh-light-mode-only)
+  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=b1zz1&show_icons=true&theme=dark&layout=compact#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs#gh-dark-mode-only)
+
+</div>
 
 ## Onde me encontrar
 
