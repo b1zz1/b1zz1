@@ -20,10 +20,10 @@ Primary color dark: #55A1F7
 <!-- Moving text -->
 <picture>
   <source 
-    srcset="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=35&duration=5000&pause=1000&color=55A1F7&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Eduardo;Frontend+developer;I+live+in+Jaragu%C3%A1+do+Sul%2C+Brasil" alt="Typing SVG"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=40&duration=5000&pause=1000&color=55A1F7&center=true&vCenter=true&width=1000&height=60&lines=Hello!+I'm+Eduardo;Frontend+developer;I+live+in+Jaragu%C3%A1+do+Sul%2C+Brasil" alt="Typing SVG"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=35&duration=5000&pause=1000&color=2F80ED&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Eduardo;Frontend+developer;I+live+in+Jaragu%C3%A1+do+Sul%2C+Brasil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=40&duration=5000&pause=1000&color=2F80ED&center=true&vCenter=true&width=1000&height=60&lines=Hello!+I'm+Eduardo;Frontend+developer;I+live+in+Jaragu%C3%A1+do+Sul%2C+Brasil" alt="Typing SVG" />
 </picture>
 
 <!-- Profile cards -->
