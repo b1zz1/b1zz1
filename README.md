@@ -27,34 +27,24 @@ Primary color dark: #55A1F7
 </picture>
 
 <!-- Profile cards -->
-<div align="center">
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=b1zz1&show_icons=false&hide_border=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-    width="49%"
-    height="195rem"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=b1zz1&show_icons=false&hide_border=true&theme=light"
-    width="49%"
-    height="195rem"
-  />
-</picture>
-<picture>
-    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=b1zz1&layout=compact&hide_border=true&theme=github_dark"
-        media="(prefers-color-scheme: dark)"
-        width="50%"
-        height="195rem"    
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=b1zz1&show_icons=false&hide_border=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
     />
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1zz1&hide_border=true&layout=compact"
-        width="50%"
-        height="195rem"
+      src="https://github-readme-stats.vercel.app/api?username=b1zz1&show_icons=false&hide_border=true&theme=light"
     />
-</picture>
-</div>
+  </picture>
+  <picture>
+      <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=b1zz1&layout=compact&hide_border=true&theme=github_dark"
+          media="(prefers-color-scheme: dark)"
+      />
+      <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1zz1&hide_border=true&layout=compact"
+      />
+  </picture>
 
 <!-- ENGLISH END -->
 ![](https://komarev.com/ghpvc/?username=b1zz1&abbreviated&color=55A1F7)
